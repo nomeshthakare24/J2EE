@@ -1,0 +1,11 @@
+package com.jspiders.jdbc.conn;
+
+public class SelectDemo4 {
+	//By using 3rd way to connect with JDBC
+	//JDBC - Java Database Connectivity
+		
+	
+	
+	
+	
+}
