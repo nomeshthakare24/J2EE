@@ -15,6 +15,7 @@ public class CreateNewFileDemo1 {
 		} catch (IOException e) {
 			e.printStackTrace();
 			System.out.println("File not created!");
+			System.out.println("dummy content");
 		}	
 	}
 }
